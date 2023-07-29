@@ -1,4 +1,4 @@
-# Sale-Tracker
+# Sale Tracker
 A dashboard to track and analyze a shop's online sale across India
 ## Objective Achieved
   * An interactive dashboard to track and analyze sales data using filters and slicers
